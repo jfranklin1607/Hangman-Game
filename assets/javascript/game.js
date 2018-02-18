@@ -1,4 +1,3 @@
-
 // Creating a giant hangmanGame object that will house all of our logic and variables.
 var hangmanGame = {
   // Object of all words that can be chosen, along with info such as their picture and a song clip.
